@@ -1,16 +1,16 @@
+
 {
-  "instagram": "https://www.instagram.com",
-  "github": "https://www.github.com",
-  "youtube": "https://www.youtube.com",
-  "chatgpt": "https://chatgpt.com/",
-  "gemini": "https://gemini.google.com/app",
-  "amazon": "https://www.amazon.com",
-  "wikipedia": "https://www.wikipedia.org",
-  "reddit": "https://www.reddit.com",
-  "netflix": "https://www.netflix.com",
-  "spotify": "https://www.spotify.com",
-  "microsoft": "https://www.microsoft.com",
-  "apple": "https://www.apple.com",
-  "google": "https://www.google.com",
-  "notion": "https://www.notion.so"
+  "instagram": "https://www.instagram.com",
+  "github": "https://www.github.com",
+  "youtube": "https://www.youtube.com",
+  "chatgpt": "https://chatgpt.com/",
+  "gemini": "https://gemini.google.com/app",
+  "amazon": "https://www.amazon.com",
+  "reddit": "https://www.reddit.com",
+  "notion": "https://www.notion.so",
+  "dribbble": "https://dribbble.com",
+  "pinterest": "https://www.pinterest.com",
+  "grok": "https://grok.com",
+  "supabase": "https://supabase.com",
+  "vercel": "https://vercel.com"
 }
