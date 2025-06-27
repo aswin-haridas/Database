@@ -13,5 +13,7 @@
   "supabase": "https://supabase.com",
   "vercel": "https://vercel.com",
   "mail1":"https://mail.google.com/mail/u/1/",
-  "mail2":"https://mail.google.com/mail/u/0/"
+  "mail2":"https://mail.google.com/mail/u/0/",
+  "l3":"http://localhost:3000/"
+  "l":"http://localhost:5173/"
 }
